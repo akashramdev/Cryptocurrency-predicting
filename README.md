@@ -3,4 +3,3 @@ Project of implementing a Recurrent Neural Network to predict the future price m
 
 The data we'll be using is Open, High, Low, Close, Volume data for Bitcoin, Ethereum, Litecoin and Bitcoin Cash.
 
-Here's the data: Cryptocurrency pricing training dataset
